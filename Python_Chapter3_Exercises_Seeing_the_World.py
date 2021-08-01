@@ -1,0 +1,15 @@
+nice_places = ["New York","Tokyo","London","Berlin","Rome","Paris"]
+
+print(nice_places)
+print(sorted(nice_places))
+print(nice_places)
+print(sorted(nice_places,reverse=True))
+print(nice_places)
+nice_places.reverse()
+print(nice_places)
+nice_places.reverse()
+print(nice_places)
+nice_places.sort()
+print(nice_places)
+nice_places.sort(reverse=True)
+print(nice_places)
